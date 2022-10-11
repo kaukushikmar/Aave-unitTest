@@ -1,0 +1,27 @@
+Arguments: 
+  /home/kaushik/.nvm/versions/node/v18.1.0/bin/node /usr/share/yarn/bin/yarn.js add --dev hardhat
+
+PATH: 
+  /home/kaushik/.nvm/versions/node/v18.1.0/bin:/home/kaushik/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.1.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: getaddrinfo EAI_AGAIN registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:83:26)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
