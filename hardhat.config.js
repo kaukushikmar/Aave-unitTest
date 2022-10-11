@@ -53,6 +53,7 @@ module.exports = {
     outputFile: "gas-report.txt",
     noColors: true,
     currency: "USD",
+    gasPrice: 250,
     coinmarketcap: process.env.COIN_API_KEY,
   },
   namedAccounts: {
